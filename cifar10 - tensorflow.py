@@ -1,7 +1,7 @@
 #------------------------------------------------------------------------------#
-#                                                                              #
-#                                                                              #
-#                                                                              #
+#                            By: Alex Colombari                                #
+#                     http://www.github.com/alexcolombari                      #
+#    Following this: https://www.guru99.com/autoencoder-deep-learning.html     #
 #------------------------------------------------------------------------------#
 import numpy as np
 import tensorflow as tf
